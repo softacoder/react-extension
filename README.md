@@ -1,1 +1,1 @@
-# react-extension
+# weather-extension
